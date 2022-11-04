@@ -9,7 +9,6 @@ import pandas as pd
 
 # Information for Riot API
 api_key = "RGAPI-a6aec52c-b788-48fd-a704-27b40a7ad266"
-api_dev = "RGAPI-e668200f-add8-4a5d-b99e-cf8343d463d8"
 region = "NA1"
 from tqdm import tqdm
 
